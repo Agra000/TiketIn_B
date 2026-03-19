@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tiketin_b", "tiketin_b\tiketin_b.csproj", "{1558905E-D23B-4A73-8D4F-875670B6F567}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1558905E-D23B-4A73-8D4F-875670B6F567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1558905E-D23B-4A73-8D4F-875670B6F567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1558905E-D23B-4A73-8D4F-875670B6F567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1558905E-D23B-4A73-8D4F-875670B6F567}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1208814C-9031-4DFD-8B22-FDEEF763C6D3}
+	EndGlobalSection
+EndGlobal
